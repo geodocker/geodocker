@@ -26,8 +26,6 @@ Despite that we're committed to maintaining sanity by providing publicly publish
 * [![Build Status](https://api.travis-ci.org/geodocker/geodocker-hdfs.svg)](http://travis-ci.org/geodocker/geodocker-hdfs) [hdfs 2.7.1](https://github.com/geodocker/geodocker-hdfs)
 * [![Build Status](https://api.travis-ci.org/geodocker/geodocker-spark.svg)](http://travis-ci.org/geodocker/geodocker-spark) [spark 1.6.1](https://github.com/geodocker/geodocker-spark)
 * [![Build Status](https://api.travis-ci.org/geodocker/geodocker-zookeeper.svg)](http://travis-ci.org/geodocker/geodocker-zookeeper) [zookeeper 3.4.6](https://github.com/geodocker/geodocker-zookeeper)
-* [cassandra](https://hub.docker.com/cassandra/)
-  * In run scripts used official cassandra image
 
 ## Build and Publish
 
