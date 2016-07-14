@@ -22,10 +22,10 @@ Despite that we're committed to maintaining sanity by providing publicly publish
 
 ## Images
 
-* [accumulo 1.7.2](https://github.com/geodocker/geodocker-accumulo) [[quay.io]](https://quay.io/geodocker/accumulo/)
-* [hadoop 2.7.1](https://github.com/geodocker/geodocker-hdfs) [[quay.io]](https://quay.io/geodocker/hdfs/)
-* [spark 1.6.1](https://github.com/geodocker/geodocker-spark) [[quay.io]](https://quay.io/geodocker/spark/)
-* [zookeeper 3.4.6](https://github.com/geodocker/geodocker-zookeeper) [[quay.io]](https://quay.io/geodocker/zookeeper/)
+* [![Build Status](https://api.travis-ci.org/geodocker/geodocker-accumulo.svg)](http://travis-ci.org/geodocker/geodocker-accumulo) [accumulo 1.7.2](https://github.com/geodocker/geodocker-accumulo)
+* [![Build Status](https://api.travis-ci.org/geodocker/geodocker-hdfs.svg)](http://travis-ci.org/geodocker/geodocker-hdfs) [hdfs 2.7.1](https://github.com/geodocker/geodocker-hdfs)
+* [![Build Status](https://api.travis-ci.org/geodocker/geodocker-spark.svg)](http://travis-ci.org/geodocker/geodocker-spark) [spark 1.6.1](https://github.com/geodocker/geodocker-spark)
+* [![Build Status](https://api.travis-ci.org/geodocker/geodocker-zookeeper.svg)](http://travis-ci.org/geodocker/geodocker-zookeeper) [zookeeper 3.4.6](https://github.com/geodocker/geodocker-zookeeper)
 * [cassandra](https://hub.docker.com/cassandra/)
   * In run scripts used official cassandra image
 
