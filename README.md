@@ -29,7 +29,7 @@ Despite that we're committed to maintaining sanity by providing publicly publish
 
 ## Build and Publish
 
-It is not necessary to build and publish these containers to use them as-is. Pre-built images are available on [[quay.io]](https://quay.io/geodocker/). Building is only necessary in-order to customize and develop GeoDocker.
+It is not necessary to build and publish these containers to use them as-is. Pre-built images are available on [quay.io](https://quay.io/organization/geodocker). Building is only necessary in-order to customize and develop GeoDocker.
 
 All images contain a `Makefile` which provide following targets:
  - `build`: Builds the container with `latest` tag
