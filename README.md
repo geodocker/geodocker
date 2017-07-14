@@ -18,7 +18,7 @@ Despite that we're committed to maintaining sanity by providing publicly publish
 * [Hadoop (HDFS) 2.7.1](https://hadoop.apache.org/)
 * [ZooKeeper 3.4.8](https://zookeeper.apache.org/)
 * [Accumulo 1.7.2](https://accumulo.apache.org/)
-* [Spark 1.6.1 (Scala 2.10)](http://spark.apache.org/)
+* [Spark 2.0.0](http://spark.apache.org/)
 
 ## Images
 
